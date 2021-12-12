@@ -3,7 +3,6 @@
 <p>https://github.com/vinfamy/LifePlay</p>
 <br>
 <br>
-<br>
 <h3>How to contribute</h3>
 <ul>
 <li>Visit the <a href="https://lifeplay.site">LifePlay community forums</a></li>
@@ -17,11 +16,7 @@
 <hr>
 <br>
 <h3>Contributors</h3>
-<a href="https://raiderknight-mods.fandom.com/wiki/List_of_contributors_for_Remake_of_LifePlay" title="List of contributions">List of contributions made by contributors.</a>
 <br>
-<ul>
-<li>Ravenger6660 - Modder and Writer</li>
-</ul>
 <br>
 <hr>
 <br>
