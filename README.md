@@ -5,7 +5,7 @@
 <br>
 <h3>How to contribute</h3>
 <ul>
-<li>Visit the <a href="https://lifeplay.site">LifePlay community forums</a></li>
+<li>Visit the <a href="https://lifeplay.site">Raider Knight community forums</a></li>
 <li>Supporting me on <a href="https://www.patreon.com/raiderknight">Patreon</a></li>
 <li>Sending your ideas or feedback: Here on Github or on <a href="https://discord.gg/d3U9E2wb4Y">Discord</a></li>
 <li>Adding more content to the module.</li>
